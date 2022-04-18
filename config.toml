@@ -1,5 +1,5 @@
 title = "marketingbros.social"
-baseURL = "www.marketingbros.social"
+baseURL = "https://marketingbros.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
