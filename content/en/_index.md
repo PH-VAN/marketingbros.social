@@ -1,8 +1,8 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Marketingbros.social"
 
-description: "The last theme you'll ever need. Maybe."
+description: "The last templates you'll ever need."
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to marketingbros.social. We offer the best templates you'll ever have used.
