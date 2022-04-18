@@ -1,4 +1,4 @@
 baseURL = 'www.marketingbros.social'
 languageCode = 'en-us'
 title = 'Marketingbros.social'
-theme = ""
+theme = "ananke"
