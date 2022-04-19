@@ -1,7 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Marketingbros.social"
 
-description: "The last theme you'll ever need. Maybe."
+description: "The last template site you'll ever need"
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
