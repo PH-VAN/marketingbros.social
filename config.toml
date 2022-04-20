@@ -12,11 +12,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "Marketingbros.social"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
-    title = "Ananke Fr"
+    title = "Marketingbros.social"
     weight = 2
     contentDir = "content/fr"
 
