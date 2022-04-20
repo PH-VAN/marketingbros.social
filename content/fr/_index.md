@@ -1,5 +1,5 @@
 ---
-title: "Ananke: Un thème pour Hugo"
+title: "Marketingbros.social"
 
 description: "Le dernier thème dont vous aurez besoin. Peut-être"
 cascade:
