@@ -9,6 +9,19 @@ menu: main
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="https://example.com"  >}}
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mnqwgyrl"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
