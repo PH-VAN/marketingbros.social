@@ -12,11 +12,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Marketingbros.social"
+    title = "Home"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
-    title = "Marketingbros.social"
+    title = "Home"
     weight = 2
     contentDir = "content/fr"
 
