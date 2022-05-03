@@ -1,8 +1,8 @@
 ---
-date: 2022-05-03T10:58:08-04:00
+date: 2017-04-10T11:00:59-04:00
 description: "What is Marketing Automation?"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["What"]
+tags: ["scene"]
 title: "Chapter I: What is Marketing Automation?"
 ---
 
