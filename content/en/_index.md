@@ -1,5 +1,5 @@
 ---
-title: "Marketingbros.social"
+title: "Home"
 
 description: "The last template site you'll ever need"
 cascade:
