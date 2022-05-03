@@ -1,7 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Home"
 
-description: "The last theme you'll ever need. Maybe."
+description: "Marketing automations made easy"
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
