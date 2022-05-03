@@ -1,6 +1,6 @@
 ---
 date: 2022-05-02T11:00:59-04:00
-description: "What is it and when do you use it?"
+description: ""
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["What is ...?"]
 title: "What is Marketing Automation?"
