@@ -1,8 +1,8 @@
 ---
 title: "Home"
 
-description: "Marketing automations made easy"
+description: "We make Marketing automations easy"
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Ready, set, go!
