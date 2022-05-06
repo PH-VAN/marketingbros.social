@@ -1,7 +1,7 @@
 ---
 date: 2022-05-03
 description: ""
-featured_image: "/images/Artboard 1.png"
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 tags: ["What is ...?"]
 title: "What is Marketing Automation?"
 ---
