@@ -1,7 +1,7 @@
 ---
 date: 2022-05-03
 description: ""
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/Marketing%20automation.jpg"
 tags: ["What is ...?"]
 title: "What is Marketing Automation?"
 ---
@@ -13,4 +13,4 @@ Marketing automation frees up time by reduces repetitive tasks, makes personaliz
 
 ![Marketing automation](/images/Marketing%20automation.jpg)
 
-[![Marketing automation](/images/Marketing%20automation.jpg)](https://www.buymeacoffee.com/marketingbros)
+[![Marketing automation](/images/buy me a coffee](https://www.buymeacoffee.com/marketingbros)
