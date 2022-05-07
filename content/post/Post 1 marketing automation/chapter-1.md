@@ -12,7 +12,3 @@ Marketing automation frees up time by reduces repetitive tasks, makes personaliz
 
 
 ![Marketing automation](/images/Marketing%20automation.jpg)
-
-[![Marketing automation](/images/buymeacoffee.png)](https://www.buymeacoffee.com/marketingbros)
-
-{{ $image := .Resources.GetMatch "/images/buymeacoffee.png" }}
