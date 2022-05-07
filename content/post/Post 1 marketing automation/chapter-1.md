@@ -14,4 +14,4 @@ Marketing automation frees up time by reduces repetitive tasks, makes personaliz
 
 [![buy me a coffee](/images/buymeacoffee.png)](https://www.buymeacoffee.com/marketingbros)
 
-If you want to support use, please head to: https://www.buymeacoffee.com/marketingbros
+If you want to show us your support, please go to: www.buymeacoffee.com/marketingbros
