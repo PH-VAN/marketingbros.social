@@ -11,14 +11,5 @@ Marketing automation is the process of using software to automate repetitious ma
 Marketing automation frees up time by reduces repetitive tasks, makes personalization easier and it helps you to deliver the right content to the right people.
 
 {{< figure src="/images/Marketing%20automation.jpg" title="" >}}
-{{< figure src="/images/buymeacoffee.png" title="" >}}
 
 [![buy me a coffee](/images/buymeacoffee.png)](https://www.buymeacoffee.com/marketingbros)
-
-<img src="/images/buymeacoffee.png"
-     alt="buy me a coffee"
-     style="float: left; margin-right: 10px;" />
-     
-[![buy me a coffee][1]][2]
-[1]: /images/buymeacoffee.png
-[2]: https://www.buymeacoffee.com/marketingbros
