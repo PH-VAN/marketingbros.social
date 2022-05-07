@@ -1,7 +1,7 @@
 ---
 date: 2022-05-03
 description: ""
-featured_image: "/images//images/banner.png"
+featured_image: "/images/Marketing%20automation.jpg"
 tags: ["What is ...?"]
 title: "What is Marketing Automation?"
 ---
