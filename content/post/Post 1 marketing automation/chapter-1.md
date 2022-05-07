@@ -1,7 +1,7 @@
 ---
 date: 2022-05-03
 description: ""
-featured_image: "/images/Marketing%20automation.jpg"
+featured_image: "/images/banner.png"
 tags: ["What is ...?"]
 title: "What is Marketing Automation?"
 ---
@@ -10,6 +10,4 @@ Marketing automation is the process of using software to automate repetitious ma
 
 Marketing automation frees up time by reduces repetitive tasks, makes personalization easier and it helps you to deliver the right content to the right people.
 
-
-![Marketing automation](/images/Marketing%20automation.jpg)
 {{< figure src="/images/Marketing%20automation.jpg" title="" >}}
