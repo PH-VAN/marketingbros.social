@@ -1,6 +1,6 @@
 ---
 title: "About"
-description:
+description: ""
 featured_image: '/images/banner.jpg'
 menu:
   main:
