@@ -1,7 +1,7 @@
 ---
 title: "About"
 description:
-featured_image: '/images/banner.png'
+featured_image: '/images/banner.jpg'
 menu:
   main:
     weight: 1
