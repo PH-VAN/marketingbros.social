@@ -5,7 +5,7 @@ theme = "ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = ['main', 'footer']
+SectionPagesMenu = "main"
 Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [sitemap]
   changefreq = "weekly"
-  priority = 0.8
+  priority = 0.5
   filename = "sitemap.xml"
 
 [params]
