@@ -1,3 +1,10 @@
+---
+title: "test"
+
+description: "test"
+cascade:
+  featured_image: '/images/banner.jpg'
+---
 Privacy Policy for marketingbros.social
 At marketingbros, accessible from www.marketingbros.social, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by marketingbros and how we use it.
 
