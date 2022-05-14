@@ -29,3 +29,8 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/company/marketingbros-social/"
+
+[params.mysite]
+# footer
+websiteterms = "/pages/<page-name>"
+privacypolicy = "/pages/<page-name>"
